@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	height: 100vh;
+    background:rgb(2,2,2);
+}
+p{
+    background: url(LELEY2.png);
+    line-height: 9.0px;
+    font-size: 9.0px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255,255,0);
+}
